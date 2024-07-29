@@ -1,0 +1,4 @@
+# remove key from dict
+init_dict = {'a':1, 'b':2, 'c':3, 'd':4, 'e':5}
+init_dict.pop('a')
+print(init_dict)
